@@ -1,0 +1,8 @@
+build/
+dist/
+api_manual/
+*.xml
+*.log
+evidence/
+submission/
+*.zip
